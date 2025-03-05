@@ -1,7 +1,7 @@
 - -.... .    ... ..- ... .... .- -. - ....    ...- .- .-. -- .- 
 - 👋 Hi, I’m @TheSushanthVarma
 - 👀 I’m interested in Product Developmet, Web Development, IOT, Product Prototyping 
-- 🌱 I’m currently learning React, NodeJS, python, Django, Flask
+- 🌱 I’m currently learning React, NodeJS, Python, Django, Flask
 - 💞️ I’m looking to collaborate on Product Design & development
 - 📫 How to reach me Via email sushanthvarma.dev@gmail.com
 - 😄 Pronouns: he/him
